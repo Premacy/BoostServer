@@ -1,0 +1,1 @@
+sudo docker run -d --name cpp_server_container cpp_server
